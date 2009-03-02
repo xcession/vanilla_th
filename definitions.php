@@ -22,7 +22,7 @@ $Context->Dictionary['XMLLang'] = 'th';
 // Define all dictionary codes in Thai
 $Context->Dictionary['NoDiscussionsNotSignedIn'] = 'คุณไม่สามารถที่จะมีส่วนร่วมในหัวข้อสนทนานี้ได้ เนิ่องจากคุณยังไม่ได้เข้าสู่ระบบ';
 $Context->Dictionary['SelectDiscussionCategory'] = 'เลือกหมวดหมู่สำหรับหัวข้อสนทนานี้';
-$Context->Dictionary['WhisperYourCommentsTo'] = 'Whisper your comments to <small>(เพิ่มเติม)</small>';
+$Context->Dictionary['WhisperYourCommentsTo'] = 'กระซิบคอมเมนต์ของคุณไปยัง <small>(เพิ่มเติม)</small>';
 $Context->Dictionary['And'] = 'และ';
 $Context->Dictionary['Or'] = 'หรือ';
 $Context->Dictionary['ClickHereToContinueToDiscussions'] = 'คลิกที่นี่เพื่อไปยังหัวข้อสนทนา';
@@ -71,13 +71,13 @@ $Context->Dictionary['Required'] = '(จำเป็น)';
 $Context->Dictionary['YourNewPasswordAgain'] = 'รหัสผ่านใหม่อีกครั้ง';
 $Context->Dictionary['YourNewPasswordAgainNotes'] = 'Re-enter your new password to be sure that you have not made any mistakes.';
 $Context->Dictionary['ForumFunctionality'] = 'ปรับแต่งฟอรัม';
-$Context->Dictionary['ForumFunctionalityNotes'] = 'Changes made on this form take place immediately. You do not need to click a submit button.';
+$Context->Dictionary['ForumFunctionalityNotes'] = 'การเปลี่ยนแปลงที่เกิดขึ้นภายในฟอร์มนี้ จะมีผลในทันที คุณจึงไม่จำเป็นที่จะต้องคลิกสั่งดำเนินการ';
 $Context->Dictionary['ControlPanel'] = 'Control panel';
 $Context->Dictionary['CommentsForm'] = 'Comments form';
 $Context->Dictionary['ShowFormatTypeSelector'] = 'Show the comment format type selector when adding comments';
 $Context->Dictionary['NewUsers'] = 'New Users';
 $Context->Dictionary['NewApplicantNotifications'] = 'Receive email notifications when new users apply for membership';
-$Context->Dictionary['AssignToRole'] = 'Choose a New Role';
+$Context->Dictionary['AssignToRole'] = 'เลือกบทบาทใหม่';
 $Context->Dictionary['AssignToRoleNotes'] = 'The role change will take place immediately. If the user is switched to a role that does not have sign-in access, they will be signed out upon their next page-load.';
 $Context->Dictionary['RoleChangeInfo'] = 'Role change notes';
 $Context->Dictionary['RoleChangeInfoNotes'] = 'Please provide some notes regarding this role change. These notes will be visible to all users in the role-history for this user.';
@@ -241,7 +241,7 @@ $Context->Dictionary['ApplyForMembership'] = 'สมัครสมาชิก'
 $Context->Dictionary['SignOut'] = 'ออกจากระบบ';
 $Context->Dictionary['ResetYourPassword'] = 'Reset your password';
 $Context->Dictionary['AdministrativeSettings'] = 'Administrative Settings';
-$Context->Dictionary['TermsOfServiceBody'] = "<h1>Terms of Service</h1>
+$Context->Dictionary['TermsOfServiceBody'] = "<h1>ข้อกำหนดในการใช้บริการ</h1>
 <h2>Please carefully review the following rules, policies, and disclaimers.</h2>
 
 <p>Considering the real-time nature of this community, it is impossible for us to review messages or confirm the validity of information posted.
