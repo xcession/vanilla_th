@@ -1,6 +1,18 @@
-Thai Language Vanilla Forum.
-http://getvanilla.com/
+Title: Thai Language for Vanilla.
+Author: Tharawut Paripaiboon aka. xcession.
+Version: 1.0
+Vanilla Version: 1.1.5a
+URL: http://getvanilla.com/
 
-Current Vanilla version: 1.1.5a
+==================================
+LANGUAGE INSTALLATION INSTRUCTIONS
+==================================
 
-Translated by xcession.
+Now that you have your language file, you must place it in Vanilla's language
+folder. Your language file should be contained within its own folder. The path
+to your language file should be similar to this:
+
+/path/to/vanilla/languages/language_name/definitions.php
+
+Once your language is in the correct place, you can enable it in the settings
+tab's "Language Management" form.
