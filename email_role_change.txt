@@ -1,4 +1,4 @@
-Hello {user_name},
+สวัสดี {user_name},
 
 This message is to inform you that your account at {forum_name} has been changed.
 You have been assigned {role_name} status.
